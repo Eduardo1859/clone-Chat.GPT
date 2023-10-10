@@ -1,0 +1,43 @@
+*{
+   flex: auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+ background-color: #444654;
+    margin: auto;
+}
+#main{
+  
+    ;
+
+}
+
+#header {
+  display: ;
+   border: 2px solid red;
+    background-color: #202123 ;
+
+}
+
+#conteiner{
+    flex-direction: column;
+    columns: 3;
+    background-color: #444654;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+    margin: 120px;
+}
+.card{
+    width: 230px;
+    height: 63px;
+    border-radius: 5px;
+  background-color: #444654; 
+  margin: 14px;
+}
+input{
+    width: 768px;
+    height: 48px;
+}
