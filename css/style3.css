@@ -1,43 +1,68 @@
-*{
-   flex: auto;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
- background-color: #444654;
-    margin: auto;
+body{
+    background-color: #444654;
 }
 #main{
   
-    ;
+    background-color: #444654; 
 
 }
 
 #header {
-  display: ;
+    position: fixed;
+    width: 200px;
+    height: 100%;
    border: 2px solid red;
     background-color: #202123 ;
+    color: white;
 
 }
 
 #conteiner{
     flex-direction: column;
-    columns: 3;
+    columns:3;
     background-color: #444654;
     color: white;
     text-align: center;
     align-items: center;
     justify-content: center;
-
-    margin: 120px;
+    margin-left: 250px;
+}
+#conteiner > h1{
+    text-align: center;
+    width: 230px;
+    height: 35px;
+}
+#conteiner > P{
+    width: 230px;
+    height: 13px;
+}
+#conteiner > img{
+    margin-top: 6%;
 }
 .card{
+    display: flex;
+    flex-direction: column;
     width: 230px;
     height: 63px;
     border-radius: 5px;
   background-color: #444654; 
-  margin: 14px;
+  border: 2px solid red;
+  margin-bottom: 60px;
+  margin-left: 20px;
+  margin-bottom: 60px;
+  margin-right: 60px;
+
 }
-input{
+#textfild > input{
     width: 768px;
     height: 48px;
+    margin-left: 350px;
+}
+#textfild > p {
+    margin-left: 250px;
+}
+#textfild > img {
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 20px;
 }
