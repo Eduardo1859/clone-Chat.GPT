@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
+* {
+    font-family: 'Inter';
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #343541;
+}
+
+header{
+    width: 270px;
+    height: 597px;
+    position: absolute;
+    
+    background-color: #202123;
+}
+#conteiner{
+    width: 80%;
+    height: 100%;
+    margin-left: 270px;
+    background-color: #343541;
+}
+
+header > .btn-1 > button {
+    width: 244px;
+    height: 45px;
+    margin-top: 10px;
+    border-radius: 6px;
+    color: #ffff;
+    background-color: #202123;
+    text-align: left;
+}
+header > .btn-2 > button {
+    width: 244px;
+    height: 45px;
+    text-align: left;
+    margin-top: 10px;
+    border-radius: 6px;
+    color: white;
+    background-color: #343540;
+}
+
+header > hr {
+    margin-top: 319px;
+}
+header > .navegacao {
+    display: flex;
+    width: 193.1px;
+    height: 13.44px;
+    margin-top: 15px;
+    color: white;
+    
+}
+header > .navegacao > img{
+    width: 20px;
+    height: 20px;
+}
+header > .navegacao > p{
+    margin-left: 10px;
+}
+main > .question-user {
+    display: flex;
+    width: 484px;
+    height: 33px;
+    margin-top: 14px;
+    border-radius: 2px;
+    margin-left: 100px;
+    color: white;
+    
+}
+main > .question-user > img {
+    width: 20px;
+    height: 20px;
+    margin-left: 25px;
+}
+.question-user >p{
+    margin-left: 10px;
+}
+.pergunta-user{
+    display: flex;
+    width: 100%vw;
+    height: 122px;
+    color: white;
+    background-color: #4b4d52;
+ 
+
+}
+.pergunta-user > #image1 {
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 125px;
+}
+.pergunta-user >img {
+
+    width: 41.78px;
+    height: 20px;
+    margin-top: 20px;
+}
+.pergunta-user > p {
+    width: 628px;
+    height: 108px;
+    font-size: 16;
+    margin-left: 10px;
+    margin-top: 14px;
+
+}
+footer > .btn-regenerate > button {
+    width: 184px;
+    height: 37px;
+    margin-top: 361px;
+    color: white;
+    background-color: #444654;
+    margin-left: 400px;
+    margin-top: 310px;
+    margin-bottom: 10px;
+    border-radius: mixed;
+}
+footer > .textfild > input {
+    width: 768px;
+    height: 48px;
+    background-color: #303139;
+    margin-left: 150px;
+    border-radius: 5px;
+}
+footer > .textfild > img {
+    position: absolute;
+    margin-left: 880px;
+    margin-top: 18px;
+}
+footer > p {
+    color: white;
+    font-size: 12px;
+    font-style: 12px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+a {
+   color: white;
+
+}

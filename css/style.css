@@ -23,7 +23,7 @@ main > button{
     color: white;
     border: 1px;
 }
-main > a{
+a{
     width: 75px;
     height: 38px;
     border-radius: 7px;
