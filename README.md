@@ -37,4 +37,4 @@ Você pode conferir o design da interface no [link do Figma](https://www.figma.c
 
 O projeto está disponível em [Clone-Chat.GPT no Vercel](https://clone-chat-gpt-two.vercel.app/) para visualização.
 
-Seja bem-vindo ao Clone-Sistok, e sinta-se à vontade para contribuir ou entrar em contato conosco!
+Seja bem-vindo ao clone-Chat.GPT, e sinta-se à vontade para contribuir ou entrar em contato conosco!
